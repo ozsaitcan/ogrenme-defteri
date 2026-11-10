@@ -1,23 +1,33 @@
-# Modül 00 – Hazırlık
+# Modül 00 - Hazırlık
 
-## Ödev Raporu
+## Genel Bilgiler
 
-- Başlangıç tarihi:
-- Tamamlanma tarihi:
-- Harcanan süre:
+- Başlangıç tarihi: 09.11.2026
+- Bitiş tarihi: Henüz tamamlanmadı
+- Harcanan süre: Henüz hesaplanmadı
+- Durum: Devam ediyor
 
-## Yapılan Çalışmalar
+## Yapılanlar
 
-- 
+- Git ve GitHub kurulumlarını yaptım.
+- Node.js ve npm kurdum.
+- ESLint kurulumunu yaptım.
+- Öğrenme defterimi oluşturdum.
+- Yazılım terimlerini sözlüğe eklemeye başladım.
 
 ## Öğrendiklerim
 
-- 
+- Git ve GitHub kullanımı.
+- Node.js ve npm'in ne işe yaradığı.
+- Yazılımda kullanılan temel kavramlar.
+- Markdown ile not tutma.
 
-## Zorlandığım Konular
+## Eksiklerim
 
-- 
+- Modüldeki kalan konuları tamamlamak.
+- Bilmediğim terimleri öğrenmek.
+- Öğrendiklerimi uygulayarak pekiştirmek.
 
-## Sonraki Hedeflerim
+## Sonuç
 
--
+Modül 00 çalışmalarım devam ediyor. Eksik konuları tamamlayıp sonraki modüle geçeceğim.
